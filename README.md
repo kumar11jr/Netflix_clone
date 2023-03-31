@@ -65,7 +65,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-deployed Link :netflix-cllne.netlify.app
+deployed Link :https://netflix-cllne.netlify.app
 
 
 ### `npm run build` fails to minify
